@@ -34,7 +34,7 @@
 ---
 
 ### 📫 How to reach me
-- 📧 Email: **sairramsuman@gmail.com**
+- 📧 Email: sahithibathini9@gmail.com
 - 💼 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
 ---
