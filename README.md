@@ -60,8 +60,7 @@
 </p>
 
 - 🩺 **Breast Cancer Prediction** – Machine learning project for disease prediction  
-- 📊 **Data Analysis using Python** – Extracting insights from real datasets  
-- 🤖 **Health Chatbot** – AI-powered chatbot concept for healthcare assistance  
+- 📊 **Data Analysis using Python** – Extracting insights from real datasets   
 - 📈 **Visualization using Power BI** – Interactive dashboards and reports  
 
 ---
